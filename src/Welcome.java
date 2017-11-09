@@ -1,3 +1,4 @@
+
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2017
  *    Level 0
@@ -13,4 +14,4 @@ public class Welcome {
 		r2d2.move(400);
 		JOptionPane.showMessageDialog(null, "WELCOME TO LEVEL 0!!");
 	}
-}
+} 
